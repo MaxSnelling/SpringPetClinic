@@ -1,4 +1,4 @@
-package max.springframework.petclinic.model;
+package max.springframework.petlcinic.model;
 
 public class Person {
 

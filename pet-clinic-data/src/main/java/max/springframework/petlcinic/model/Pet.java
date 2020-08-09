@@ -1,4 +1,4 @@
-package max.springframework.petclinic.model;
+package max.springframework.petlcinic.model;
 
 import java.time.LocalDate;
 
