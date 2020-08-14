@@ -23,8 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f207f6c6-cbb7-4991-a199-f7529c9fb00e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml.releaseBackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/OwnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/VetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml.releaseBackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml.releaseBackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/test/java/petclinic/PetClinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/test/java/max/springframework/petclinic/PetClinicApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -126,22 +135,22 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1689" y="616" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.2560.1413@0.27.2560.1413" timestamp="1596982201675" />
-    <state width="1238" height="396" key="GridCell.Tab.0.bottom" timestamp="1596986279618">
+    <state width="1238" height="320" key="GridCell.Tab.0.bottom" timestamp="1596998269303">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="396" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1596986279618" />
-    <state width="1238" height="396" key="GridCell.Tab.0.center" timestamp="1596986279617">
+    <state width="1238" height="320" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1596998269303" />
+    <state width="1238" height="320" key="GridCell.Tab.0.center" timestamp="1596998269302">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="396" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1596986279617" />
-    <state width="1238" height="396" key="GridCell.Tab.0.left" timestamp="1596986279617">
+    <state width="1238" height="320" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1596998269302" />
+    <state width="1238" height="320" key="GridCell.Tab.0.left" timestamp="1596998269301">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="396" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1596986279617" />
-    <state width="1238" height="396" key="GridCell.Tab.0.right" timestamp="1596986279618">
+    <state width="1238" height="320" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1596998269301" />
+    <state width="1238" height="320" key="GridCell.Tab.0.right" timestamp="1596998269302">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="396" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1596986279618" />
+    <state width="1238" height="320" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1596998269302" />
     <state x="1321" y="438" width="1168" height="598" key="new project wizard" timestamp="1596981992657">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
