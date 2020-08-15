@@ -23,11 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f207f6c6-cbb7-4991-a199-f7529c9fb00e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/AbstractMapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/OwnerServiceMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/PetServiceMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/VetServiceMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/OwnerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/PetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/VetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/CrudService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/CrudService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,10 +114,10 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1403" y="311" width="1024" height="852" key="#Project_Structure/0.27.2560.1413@0.27.2560.1413" timestamp="1596983041573" />
-    <state x="1718" y="420" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1597410897874">
+    <state x="1718" y="420" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1597483293231">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state x="1718" y="420" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.2560.1413@0.27.2560.1413" timestamp="1597410897874" />
+    <state x="1718" y="420" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.2560.1413@0.27.2560.1413" timestamp="1597483293231" />
     <state x="1477" y="659" width="866" height="155" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596983154885">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
