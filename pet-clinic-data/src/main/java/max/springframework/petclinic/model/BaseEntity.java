@@ -1,4 +1,4 @@
-package max.springframework.petlcinic.model;
+package max.springframework.petclinic.model;
 
 import java.io.Serializable;
 

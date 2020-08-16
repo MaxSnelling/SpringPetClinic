@@ -1,11 +1,9 @@
 package max.springframework.petclinic.bootstrap;
 
-import max.springframework.petlcinic.model.Owner;
-import max.springframework.petlcinic.model.Vet;
-import max.springframework.petlcinic.services.OwnerService;
-import max.springframework.petlcinic.services.VetService;
-import max.springframework.petlcinic.services.map.OwnerServiceMap;
-import max.springframework.petlcinic.services.map.VetServiceMap;
+import max.springframework.petclinic.model.Owner;
+import max.springframework.petclinic.model.Vet;
+import max.springframework.petclinic.services.OwnerService;
+import max.springframework.petclinic.services.VetService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
@@ -15,11 +13,9 @@ public class DataLoader implements CommandLineRunner {
     private final OwnerService ownerService;
     private final VetService vetService;
 
-
-    public DataLoader() {
-        ownerService = new OwnerServiceMap();
-        vetService = new VetServiceMap();
-
+    public DataLoader(OwnerService ownerService, VetService vetService) {
+        this.ownerService = ownerService;
+        this.vetService = vetService;
     }
 
     @Override

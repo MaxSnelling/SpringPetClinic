@@ -1,4 +1,4 @@
-package max.springframework.petlcinic.services.map;
+package max.springframework.petclinic.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;
