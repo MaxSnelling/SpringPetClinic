@@ -24,24 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f207f6c6-cbb7-4991-a199-f7529c9fb00e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/model/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/model/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/model/PetType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/model/Vet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/CrudService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/CrudService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/OwnerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/PetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/VetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/AbstractMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/map/AbstractMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/OwnerServiceMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/map/OwnerServiceMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/PetServiceMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/map/PetServiceMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petlcinic/services/map/VetServiceMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/map/VetServiceMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/PetClinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/PetClinicApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/bootstrap/DataLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/OwnerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/VetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/VetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,22 +153,22 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1703" y="491" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1597581875068" />
-    <state width="1238" height="518" key="GridCell.Tab.0.bottom" timestamp="1597581926830">
+    <state width="1238" height="518" key="GridCell.Tab.0.bottom" timestamp="1597582047030">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1597581926830" />
-    <state width="1238" height="518" key="GridCell.Tab.0.center" timestamp="1597581926829">
+    <state width="1238" height="518" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1597582047030" />
+    <state width="1238" height="518" key="GridCell.Tab.0.center" timestamp="1597582047029">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1597581926829" />
-    <state width="1238" height="518" key="GridCell.Tab.0.left" timestamp="1597581926829">
+    <state width="1238" height="518" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1597582047029" />
+    <state width="1238" height="518" key="GridCell.Tab.0.left" timestamp="1597582047029">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1597581926829" />
-    <state width="1238" height="518" key="GridCell.Tab.0.right" timestamp="1597581926830">
+    <state width="1238" height="518" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1597582047029" />
+    <state width="1238" height="518" key="GridCell.Tab.0.right" timestamp="1597582047029">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1597581926830" />
+    <state width="1238" height="518" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1597582047029" />
     <state x="1388" y="311" width="1024" height="852" key="SettingsEditor" timestamp="1597506723184">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
