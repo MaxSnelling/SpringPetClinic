@@ -23,11 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f207f6c6-cbb7-4991-a199-f7529c9fb00e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/inputField.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/selectField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_es.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,22 +158,22 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1703" y="491" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1597776033693" />
-    <state width="1238" height="518" key="GridCell.Tab.0.bottom" timestamp="1597601108562">
+    <state width="1238" height="518" key="GridCell.Tab.0.bottom" timestamp="1598107474564">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1597601108562" />
-    <state width="1238" height="518" key="GridCell.Tab.0.center" timestamp="1597601108561">
+    <state width="1238" height="518" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1598107474564" />
+    <state width="1238" height="518" key="GridCell.Tab.0.center" timestamp="1598107474564">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1597601108561" />
-    <state width="1238" height="518" key="GridCell.Tab.0.left" timestamp="1597601108561">
+    <state width="1238" height="518" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1598107474564" />
+    <state width="1238" height="518" key="GridCell.Tab.0.left" timestamp="1598107474564">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1597601108561" />
-    <state width="1238" height="518" key="GridCell.Tab.0.right" timestamp="1597601108562">
+    <state width="1238" height="518" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1598107474564" />
+    <state width="1238" height="518" key="GridCell.Tab.0.right" timestamp="1598107474564">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1238" height="518" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1597601108562" />
+    <state width="1238" height="518" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1598107474564" />
     <state x="1388" y="311" width="1024" height="852" key="SettingsEditor" timestamp="1597506723184">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
