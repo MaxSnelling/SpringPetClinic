@@ -23,10 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f207f6c6-cbb7-4991-a199-f7529c9fb00e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/notimplemented.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/SpecialtiesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/SpecialtyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/map/SpecialtyMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/max/springframework/petclinic/services/map/SpecialtyMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/bootstrap/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/OwnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/VetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/max/springframework/petclinic/controllers/VetController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -159,22 +160,22 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1703" y="491" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1597776033693" />
-    <state width="1228" height="518" key="GridCell.Tab.0.bottom" timestamp="1598183995375">
+    <state width="1228" height="518" key="GridCell.Tab.0.bottom" timestamp="1598187291129">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1228" height="518" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1598183995375" />
-    <state width="1228" height="518" key="GridCell.Tab.0.center" timestamp="1598183995374">
+    <state width="1228" height="518" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1598187291129" />
+    <state width="1228" height="518" key="GridCell.Tab.0.center" timestamp="1598187291129">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1228" height="518" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1598183995374" />
-    <state width="1228" height="518" key="GridCell.Tab.0.left" timestamp="1598183995374">
+    <state width="1228" height="518" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1598187291129" />
+    <state width="1228" height="518" key="GridCell.Tab.0.left" timestamp="1598187291128">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1228" height="518" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1598183995374" />
-    <state width="1228" height="518" key="GridCell.Tab.0.right" timestamp="1598183995374">
+    <state width="1228" height="518" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1598187291128" />
+    <state width="1228" height="518" key="GridCell.Tab.0.right" timestamp="1598187291129">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="1228" height="518" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1598183995374" />
+    <state width="1228" height="518" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1598187291129" />
     <state x="1388" y="311" width="1024" height="852" key="SettingsEditor" timestamp="1597506723184">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
