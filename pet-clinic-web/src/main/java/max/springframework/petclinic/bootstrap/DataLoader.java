@@ -1,10 +1,7 @@
 package max.springframework.petclinic.bootstrap;
 
 import max.springframework.petclinic.model.*;
-import max.springframework.petclinic.services.OwnerService;
-import max.springframework.petclinic.services.PetTypeService;
-import max.springframework.petclinic.services.SpecialtyService;
-import max.springframework.petclinic.services.VetService;
+import max.springframework.petclinic.services.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
@@ -17,12 +14,16 @@ public class DataLoader implements CommandLineRunner {
     private final VetService vetService;
     private final PetTypeService petTypeService;
     private final SpecialtyService specialtyService;
+    private final VisitService visitService;
+    private final PetService petService;
 
-    public DataLoader(OwnerService ownerService, VetService vetService, PetTypeService petTypeService, SpecialtyService specialtyService) {
+    public DataLoader(OwnerService ownerService, VetService vetService, PetTypeService petTypeService, SpecialtyService specialtyService, VisitService visitService, PetService petService) {
         this.ownerService = ownerService;
         this.vetService = vetService;
         this.petTypeService = petTypeService;
         this.specialtyService = specialtyService;
+        this.visitService = visitService;
+        this.petService = petService;
     }
 
     @Override
@@ -67,6 +68,7 @@ public class DataLoader implements CommandLineRunner {
         pet1.setBirthDate(LocalDate.now());
         pet1.setName("Doggo");
         owner1.getPets().add(pet1);
+        petService.save(pet1);
         ownerService.save(owner1);
 
         Owner owner2 = new Owner();
@@ -82,7 +84,13 @@ public class DataLoader implements CommandLineRunner {
         pet2.setBirthDate(LocalDate.now());
         pet2.setName("Catto");
         owner2.getPets().add(pet2);
+        petService.save(pet2);
         ownerService.save(owner2);
+
+        Visit catVisit = new Visit();
+        catVisit.setDate(LocalDate.now());
+        catVisit.setDescription("Cat Visit");
+        visitService.save(catVisit);
 
         Vet vet1 = new Vet();
         vet1.setFirstName("James");
